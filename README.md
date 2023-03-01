@@ -16,8 +16,6 @@
  </a>
 </p>
 
-<hr />
-
 <p align="center"> 
  <strong>
   SKILLS
@@ -35,8 +33,6 @@
 </p>
 
 </br>
-
-<hr />
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/kevinschmidt" target="_blank">
