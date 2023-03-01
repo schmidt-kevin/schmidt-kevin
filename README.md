@@ -1,16 +1,45 @@
-### Hi there 👋
+<h1 align="center"> Hi, I an Kevin 👋 </h1>
 
-<!--
-**schmidt-kevin/schmidt-kevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+ <strong>
+  STAY IN CONTACT WITH ME
+  </strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+ <a href="https://www.xing.com/profile/Kevin_Schmidt65/cv" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/xing.png" />
+ </a>
+ 
+ <a href="https://linkedin.com/in/kevin-schmidt-95a972164" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+<p align="center"> 
+ <strong>
+  SKILLS
+  </strong>
+</p>
+
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
+</p>
+
+</br>
+
+<hr />
+
+<p align="center">
+ <a href="https://www.buymeacoffee.com/kevinschmidt" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
+ </a>
+</p>
